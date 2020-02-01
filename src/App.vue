@@ -9,7 +9,11 @@
 
     export default {
         name: 'app',
-        components: {HeaderBar}
+
+        components: {
+            HeaderBar
+        }
+
     }
 </script>
 
