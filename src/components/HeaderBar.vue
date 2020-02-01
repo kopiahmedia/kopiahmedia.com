@@ -15,11 +15,11 @@
                                 "Cubit" @Aiman<span class="italic">Benna</span> was actually
                             </div>
                             <div class="text-blue-600 text-4xl">
-                                part of our <span class="underline">8 years</span> establishment.
+                                part of our <span class="underline">8 years</span> memories.
                             </div>
                         </h1>
 
-                        <p class="text-xl text-center md:text-left md:text-lg lg:text-xl xl:text-2xl text-grey-dark leading-normal font-raleway">
+                        <p class="text-xl text-center md:text-left md:text-lg lg:text-xl xl:text-2xl text-gray-900 leading-normal font-roboto pr-5">
                             From photos, graphics, video and software. Check out some of our works that might catch your eyes immediately.
                         </p>
                     </div>
