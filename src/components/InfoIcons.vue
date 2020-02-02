@@ -6,11 +6,11 @@
         <div class="container flex mx-auto">
             <div class="w-full mx-auto rounded-lg flex-col p-10">
                 <div class="flex">
-                    <div class="flex rounded-r-lg mr-2 w-1/2 bg-white items-center rounded-lg overflow-hidden shadow-lg mb-5">
+                    <div class="flex rounded-r-lg mr-2 w-1/2 bg-white items-start rounded-lg overflow-hidden shadow-lg hover:shadow-xl mb-5">
                         <div class="w-1/2 -ml-1 rounded-full">
                             <img class="w-full" src="../assets/kisas-gate.jpg"/>
                         </div>
-                        <div class="w-1/2 px-3">
+                        <div class="w-1/2 px-3 text-right">
                             <div class="text-xl font-poppins font-semibold">10,000 Photos Taken</div>
                             <ul class="font-roboto">
                                 <li>View</li>
@@ -18,8 +18,8 @@
                         </div>
                     </div>
 
-                    <div class="flex rounded-r-lg ml-2 w-1/2 bg-white items-center rounded-lg overflow-hidden shadow-lg mb-5 text-right">
-                        <div class="w-1/2 px-3">
+                    <div class="flex rounded-r-lg ml-2 w-1/2 bg-white items-start rounded-lg overflow-hidden shadow-lg hover:shadow-xl mb-5 text-right">
+                        <div class="w-1/2 px-3 text-left">
                             <div class="text-xl font-poppins font-semibold">4 Magazines Published</div>
                             <ul class="font-roboto">
                                 <li>Restu 12'</li>
@@ -35,11 +35,11 @@
                 </div>
 
                 <div class="flex">
-                    <div class="flex rounded-r-lg mr-2 w-1/2 bg-white items-center rounded-lg overflow-hidden shadow-lg mb-5">
+                    <div class="flex rounded-r-lg mr-2 w-1/2 bg-white items-start rounded-lg overflow-hidden shadow-lg hover:shadow-xl mb-5">
                         <div class="w-1/2 -ml-1 rounded-full">
                             <img src="../assets/kmt-video.jpg"/>
                         </div>
-                        <div class="w-1/2 px-3">
+                        <div class="w-1/2 px-3 text-right">
                             <div class="text-xl font-poppins font-semibold">25,000 Video Views</div>
                             <ul class="font-roboto">
                                 <li>1 short film</li>
@@ -49,8 +49,8 @@
                         </div>
                     </div>
 
-                    <div class="flex rounded-r-lg ml-2 w-1/2 bg-white items-center rounded-lg overflow-hidden shadow-lg mb-5 text-right">
-                        <div class="w-1/2 px-3">
+                    <div class="flex rounded-r-lg ml-2 w-1/2 bg-white items-start rounded-lg overflow-hidden shadow-lg hover:shadow-xl mb-5 text-right">
+                        <div class="w-1/2 px-3 text-left">
                             <div class="text-xl font-poppins font-semibold">600+ Printed T-Shirts</div>
                             <ul class="font-roboto">
 
@@ -64,24 +64,21 @@
                 </div>
 
                 <div class="flex">
-                    <div class="flex rounded-r-lg w-1/2 mr-2 bg-white items-center rounded-lg overflow-hidden shadow-lg mb-5">
+                    <div class="flex rounded-r-lg w-1/2 mr-2 bg-white items-start rounded-lg overflow-hidden shadow-lg hover:shadow-xl mb-5">
                         <div class="w-1/2 -ml-1 rounded-full">
                             <img src="../assets/restu-izzudin-umair.jpg"/>
                         </div>
-                        <div class="w-1/2 px-3">
+                        <div class="w-1/2 px-3 text-right">
                             <div class="text-xl font-poppins font-semibold">4 Software Written</div>
                             <ul class="font-roboto">
-                                <li>SwitchX</li>
-                                <li>carazu.com</li>
-                                <li>BangunSubuh</li>
-                                <li>sekolahkini.com</li>
+
                             </ul>
                         </div>
                     </div>
 
-                    <div class="flex rounded-r-lg w-1/2 ml-2 bg-white items-center rounded-lg overflow-hidden shadow-lg mb-5 text-right">
-                        <div class="w-1/2 px-3">
-                            <div class="text-xl font-poppins font-semibold">6 Assets Conquered</div>
+                    <div class="flex rounded-r-lg w-1/2 ml-2 bg-white items-start rounded-lg overflow-hidden shadow-lg hover:shadow-xl mb-5 text-right">
+                        <div class="w-1/2 px-3 text-left">
+                            <div class="text-xl font-poppins font-semibold">3 Sub brands</div>
                         </div>
                         <div class="w-1/2 rounded-full">
                             <img src="../assets/ksk.jpg"/>

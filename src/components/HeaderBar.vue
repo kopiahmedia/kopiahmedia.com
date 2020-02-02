@@ -5,7 +5,7 @@
         </div>
         <div class="flex bg-blue-100 py-16 border-b border-blue-400">
             <div class="container mx-auto">
-                <div class="flex p-10 items-center justify-around">
+                <div class="flex p-10 items-center justify-between">
                     <div class="w-3/5">
                         <div class="uppercase tracking-wide text-indigo-700 text-xl">
                             Fun Fact
@@ -24,7 +24,7 @@
                         </p>
                     </div>
                     <div class="w-2/5 p-5">
-                        <img src="../assets/kopiahmedia-gray.png" class="w-64" alt="Kopiah Media Logo">
+                        <img src="../assets/kopiahmedia-gray.png" alt="Kopiah Media Logo">
                     </div>
                 </div>
             </div>
