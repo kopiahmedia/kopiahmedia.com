@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+.icon-box {
+    display: inline-flex;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #9AE6B4;
+}
+
 .font-poppins {
     font-family: 'Poppins', sans-serif;
 }

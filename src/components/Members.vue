@@ -1,7 +1,9 @@
 <template>
     <div class="bg-red-100 border-t-2 border-b-2 border-red-300 pt-16 pb-16">
         <div class="mx-auto w-3/4">
-            <h2 class="text-center font-poppins text-5xl semibold mb-5">KM Team</h2>
+            <h2 class="flex justify-center align-middle text-center font-poppins text-5xl semibold mb-5">
+                <img class="w-1/4 mb-5" src="../assets/kopiah-media.png"/>
+            </h2>
 
             <div class="flex mb-5">
                 <div class="w-1/5 m-1">
