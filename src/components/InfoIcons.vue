@@ -13,7 +13,7 @@
                         <div class="w-1/2 px-3">
                             <div class="text-xl font-poppins font-semibold">10,000 Photos Taken</div>
                             <p class="font-roboto text-gray-700">As part of Restu Crew and KMT Members, we've shot a lot photos and videos. </p>
-                            <div class="text-blue-600 font-bold font-roboto bg-gray-100">View more</div>
+                            <div class="text-blue-600 font-bold font-roboto bg-gray-100"><a href="https://www.facebook.com/Kolej-Islam-Sultan-Alam-Shah-Official-191199154273963" target="_blank">View more</a></div>
                         </div>
                     </div>
 
@@ -21,7 +21,7 @@
                         <div class="w-1/2 px-3 text-left">
                             <div class="text-xl font-poppins font-semibold">4 Magazines Published</div>
                             <p class="font-roboto text-gray-700">We published and help to publish Restu 12', Restu 13', Al-Irsyad 13' and Al-Ijtihad '13 and even Majalah JOM</p>
-                            <div class="text-blue-600 font-bold font-roboto">View Restu 13' Online</div>
+                            <div class="text-blue-600 font-bold font-roboto"><a href="https://www.facebook.com/restuwadahperdanawaqafan/" target="_blank">View Restu 13' Online</a></div>
                         </div>
                         <div class="w-1/2 rounded-full">
                             <img src="../assets/restu-brotherhood.jpg"/>
@@ -37,7 +37,7 @@
                         <div class="w-1/2 px-3">
                             <div class="text-xl font-poppins font-semibold">25,000 Video Views</div>
                             <p class="font-roboto text-gray-700">We produced Monday weekly assembly videos, college events and short films.</p>
-                            <div class="text-blue-600 font-bold font-roboto">View our YouTube Channel</div>
+                            <div class="text-blue-600 font-bold font-roboto"><a href="https://www.youtube.com/58thkisas" target="_blank">View our YouTube Channel</a></div>
                         </div>
                     </div>
 
@@ -61,7 +61,7 @@
                         <div class="w-1/2 px-3">
                             <div class="text-xl font-poppins font-semibold">4 Software Written</div>
                             <p class="font-roboto text-gray-700">We wrote SwitchX, sekolahkini.com, carazu.com, BangunSubuh and this current site.</p>
-                            <div class="text-blue-600 font-bold font-roboto">View our GitHub Repository</div>
+                            <div class="text-blue-600 font-bold font-roboto"><a href="https://github.com/kopiahmedia" target="_blank">View our GitHub Repository</a></div>
                         </div>
                     </div>
 
